@@ -204,5 +204,7 @@ MIT © 2026 — Libre para uso, modificación y distribución.
 ---
 
 <div align="center">
+  <img><img width="2752" height="1536" alt="Logo_and_wordmark_design_2K_202608120112" src="https://github.com/user-attachments/assets/937d900c-59bc-4a80-a3d6-0efccc2f373d" />
+</img>
   <sub>Construido con ❤️ para Venezuela y Colombia · Los datos son reales · La predicción exacta no existe aún en la ciencia</sub>
 </div>
